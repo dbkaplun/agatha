@@ -11,8 +11,8 @@ My 2007 BMW 335xi
 
 ## Current mods
 * Tires
-  * [x] Front: [Pirelli Cinturato P7 All Season Performance Radial Tire - 225/45R17 94H](http://www.amazon.com/Pirelli-Cinturato-Season-Performance-Radial/dp/B00CJSQU5K)
-  * [ ] Rear: [Continental ContiProContact SSR Run-Flat All-Season Tire - 225/45R17 91H](http://www.amazon.com/Continental-ContiProContact-Run-Flat-All-Season-Tire/dp/B004QGZN6U)
+  * [ ] Replace front [Continental ContiProContact SSR Run-Flat All-Season Tire - 225/45R17 91H](http://www.amazon.com/Continental-ContiProContact-Run-Flat-All-Season-Tire/dp/B004QGZN6U)
+  * [x] Rear: [Pirelli Cinturato P7 All Season Performance Radial Tire - 225/45R17 94H](http://www.amazon.com/Pirelli-Cinturato-Season-Performance-Radial/dp/B00CJSQU5K)
 * Brakes
   * [x] Front
     * [Brembo 33S60204 Sport Slotted Front Rotors](http://www.amazon.com/Brembo-33S60204-Slotted-3-Series-2007-2008/dp/B00BZ0T3RU)
