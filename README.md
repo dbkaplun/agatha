@@ -25,7 +25,7 @@ My 2007 BMW 335xi
   * [x] [A tune](bins/Agatha.bin)
     * [ ] Possibly get a pro tune: [WedgePerformance](http://www.wedgeperformance.com/) [SPX](http://www.e90post.com/forums/member.php?u=231532) [Twisted Tuning](https://www.facebook.com/twistedtuned)
     * [ ] Consider getting a [JB4](http://www.burgertuning.com/jb4_pnp_BMW_performance_tuner.html) [G5](http://www.burgertuning.com/N54_JB4_upgrades.html) piggyback
-  * [ ] FMIC
+  * [ ] FMIC <sup>[1](http://mosselmanturbo.com/uploads/media/intercooler_test_Mosselman.pdf) [2](http://www.bimmerboost.com/showthread.php?19518-FMIC-Comparison-Thread)</sup>
   * [ ] Exhaust
   * [ ] Catted downpipes
   * [ ] Limited-slip differential
