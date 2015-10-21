@@ -34,6 +34,7 @@ My 2007 BMW 335xi
     * [Size chart](http://i.imgur.com/q20vMGg.png)
   * [ ] Oil cooler
 * [ ] Weight reduction <sup>[1](http://www.m3post.com/forums/showthread.php?t=135122)</sup>
+* [ ] Aerodynamics
 
 ## Inspiration
 * ["Blue"](http://volvospeed.com/vs_forum/topic/148756-e90-update-roll-bar-content/)
