@@ -22,7 +22,7 @@ My 2007 BMW 335xi
   * [ ] [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI)
   * [ ] Try removing sway bars
 * Drivetrain <sup>[bolt-on comparison](http://blog.modbargains.com/5-ways-to-full-bolt-ons-for-bmw-n54/)</sup>
-  * [x] [A tune](bins/Agatha.bin)
+  * [x] [Software](bins/Agatha.bin) (original version: E89X-07-06-520)
     * [ ] Possibly get a pro tune: [WedgePerformance](http://www.wedgeperformance.com/) [SPX](http://www.e90post.com/forums/member.php?u=231532) [Twisted Tuning](https://www.facebook.com/twistedtuned)
     * [ ] Consider getting a [JB4](http://www.burgertuning.com/jb4_pnp_BMW_performance_tuner.html) [G5](http://www.burgertuning.com/N54_JB4_upgrades.html) piggyback
   * [ ] FMIC <sup>[1](http://mosselmanturbo.com/uploads/media/intercooler_test_Mosselman.pdf) [2](http://www.bimmerboost.com/showthread.php?19518-FMIC-Comparison-Thread)</sup>
