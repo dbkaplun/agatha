@@ -13,6 +13,10 @@ My 2007 BMW 335xi
 * Tires
   * [ ] Replace front [Continental ContiProContact SSR Run-Flat All-Season Tire - 225/45R17 91H](http://www.amazon.com/Continental-ContiProContact-Run-Flat-All-Season-Tire/dp/B004QGZN6U)
   * [x] Rear: [Pirelli Cinturato P7 All Season Performance Radial Tire - 225/45R17 94H](http://www.amazon.com/Pirelli-Cinturato-Season-Performance-Radial/dp/B00CJSQU5K)
+* Wheels
+  * [ ] Replace [BMW 159](http://www.bmwstylewheels.com/bmw/159)s
+    * [ ] [Wheels on TireRack](http://www.tirerack.com/wheels/results.jsp?sort=Weight&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)
+    * [ ] [APEX](http://www.apexraceparts.com/apex-products/e90-e92/#.VjyzZK6rTmE)
 * Brakes
   * [x] Front
     * [Brembo 33S60204 Sport Slotted Front Rotors](http://www.amazon.com/Brembo-33S60204-Slotted-3-Series-2007-2008/dp/B00BZ0T3RU)
