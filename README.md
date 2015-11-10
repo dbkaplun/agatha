@@ -20,7 +20,7 @@ My 2007 BMW 335xi
     * [Brembo 33S60204 Sport Slotted Front Rotors](http://www.amazon.com/Brembo-33S60204-Slotted-3-Series-2007-2008/dp/B00BZ0T3RU)
     * [Akebono EUR918 EURO Ultra-Premium Ceramic Brake Pad Set](http://www.amazon.com/Akebono-EUR918-Ultra-Premium-Ceramic-Brake/dp/B0019HYQO4)
   * [ ] Rear
-* Suspension
+* Suspension <sup>[1](http://www.e90post.com/forums/showthread.php?t=251639)</sup>
   * [ ] [TCKR E9X Xi (AWD) Single Adjustable Coilover Kit](http://www.tcklineracing.com/webdocs/Items/Details690.cfm)
   * [ ] [H&R/Bilstein Sport Suspension Package](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx)
   * [ ] [KW Variant 1 Coil-over](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)
@@ -29,7 +29,7 @@ My 2007 BMW 335xi
   * [ ] [AST](http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail) (may not fit 335xi)
   * [ ] [JRZ](https://store.vacmotorsports.com/jrz---e9x--e8x-rs-premium-damper-kits-p2732.aspx) (may not fit 335xi)
   * [ ] [Ground Control](http://www.ground-control-store.com/products/category.php/CA=268) (may not fit 335xi)
-  * [ ] [Moton Adjustable Motorsport Damper Package](http://www.turnermotorsport.com/BMW-E90/c-210-bmw-moton-coilovers-race-dampers.aspx) (very expensive + may not fit 335xi)
+  * [ ] [Moton Adjustable Motorsport Damper Package](http://motonsuspensiononline.com/index.php?main_page=product_info&cPath=15_2&products_id=7) (very expensive + may not fit 335xi)
   * [ ] [MCS](http://www.motioncontrolsuspension.com/products/prices.html) (probably only fits M3)
   * [ ] Try removing sway bars
 * Drivetrain <sup>[bolt-on comparison](http://blog.modbargains.com/5-ways-to-full-bolt-ons-for-bmw-n54/)</sup>
