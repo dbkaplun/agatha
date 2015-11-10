@@ -21,6 +21,7 @@ My 2007 BMW 335xi
     * [Akebono EUR918 EURO Ultra-Premium Ceramic Brake Pad Set](http://www.amazon.com/Akebono-EUR918-Ultra-Premium-Ceramic-Brake/dp/B0019HYQO4)
   * [ ] Rear
 * Suspension <sup>[1](http://www.e90post.com/forums/showthread.php?t=251639)</sup>
+  * [ ] [JRZ RS Sport](https://store.vacmotorsports.com/jrz-rs-sport-bmw-3-series-e90e91e92e93-p3149.aspx) ($4575)
   * [ ] [Nitron - NTR R1 Coilover Systems](https://store.vacmotorsports.com/nitron---ntr-r1-coilover-systems-e9x--e8x-non-m-p2848.aspx)
   * [ ] [TCKR E9X Xi (AWD) Single Adjustable Coilover Kit](http://www.tcklineracing.com/webdocs/Items/Details690.cfm)
   * [ ] [H&R/Bilstein Sport Suspension Package](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx)
@@ -28,7 +29,6 @@ My 2007 BMW 335xi
   * [ ] [KW Variant 3 Coil-over](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)
   * [ ] [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (probably don't fit 335xi :cry:)
   * [ ] [AST](http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail) (may not fit 335xi)
-  * [ ] [JRZ](https://store.vacmotorsports.com/jrz---e9x--e8x-rs-premium-damper-kits-p2732.aspx) (may not fit 335xi)
   * [ ] [Ground Control](http://www.ground-control-store.com/products/category.php/CA=268) (may not fit 335xi)
   * [ ] [Moton Adjustable Motorsport Damper Package](http://motonsuspensiononline.com/index.php?main_page=product_info&cPath=15_2&products_id=7) (very expensive + may not fit 335xi)
   * [ ] [MCS](http://www.motioncontrolsuspension.com/products/prices.html) (probably only fits M3)
