@@ -21,6 +21,7 @@ My 2007 BMW 335xi
     * [Akebono EUR918 EURO Ultra-Premium Ceramic Brake Pad Set](http://www.amazon.com/Akebono-EUR918-Ultra-Premium-Ceramic-Brake/dp/B0019HYQO4)
   * [ ] Rear
 * Suspension <sup>[1](http://www.e90post.com/forums/showthread.php?t=251639)</sup>
+  * [ ] [Nitron - NTR R1 Coilover Systems](https://store.vacmotorsports.com/nitron---ntr-r1-coilover-systems-e9x--e8x-non-m-p2848.aspx)
   * [ ] [TCKR E9X Xi (AWD) Single Adjustable Coilover Kit](http://www.tcklineracing.com/webdocs/Items/Details690.cfm)
   * [ ] [H&R/Bilstein Sport Suspension Package](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx)
   * [ ] [KW Variant 1 Coil-over](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)
