@@ -23,6 +23,8 @@ My 2007 BMW 335xi
 * Suspension
   * [ ] [TCKR E9X Xi (AWD) Single Adjustable Coilover Kit](http://www.tcklineracing.com/webdocs/Items/Details690.cfm)
   * [ ] [H&R/Bilstein Sport Suspension Package](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx)
+  * [ ] [KW Variant 1 Coil-over](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)
+  * [ ] [KW Variant 3 Coil-over](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)
   * [ ] [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (probably don't fit 335xi :cry:)
   * [ ] [AST](http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail) (may not fit 335xi)
   * [ ] [JRZ](https://store.vacmotorsports.com/jrz---e9x--e8x-rs-premium-damper-kits-p2732.aspx) (may not fit 335xi)
