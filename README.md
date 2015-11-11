@@ -24,6 +24,7 @@ My 2007 BMW 335xi
   * [Nitron NTR R1 kit](https://store.vacmotorsports.com/nitron---ntr-r1-coilover-systems-e9x--e8x-non-m-p2848.aspx) $2,640
   * [TC Kline + Koni kit](http://www.tcklineracing.com/webdocs/Items/Details690.cfm) $2,594
   * [AST shocks](http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail) $1,795
+  * [Intrax 1K2 shocks+springs](en.intraxracing.nl/merken/bmw/e90,-e92,-e93-other-than-m3/bmw5675-1k2/) $2,795
   * KW [V1](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)/[V3](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems) kit $1,584/$2,400
   * [Bilstein shocks + H&R springs](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx) $991
   * [Fortune Auto 500 shocks + Fortune Auto or Swift springs](https://www.vividracing.com/catalog/fortune-auto-series-coilovers-335xi-0708-p-150942707.html) $1,349
