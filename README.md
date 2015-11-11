@@ -27,11 +27,11 @@ My 2007 BMW 335xi
   * KW [V1](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)/[V3](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems) kit $1,584/$2,400
   * [Bilstein shocks + H&R springs](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx) $991
   * [Fortune Auto 500 shocks + Fortune Auto or Swift springs](https://www.vividracing.com/catalog/fortune-auto-series-coilovers-335xi-0708-p-150942707.html) $1,349
-  * [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (don't fit xi :cry:)
   * [MCS TT1 shocks + Swift+Hyperco springs](http://www.vorshlag.com/product_info.php?cPath=0_332&products_id=707&osCsid=ad2b3910563b892ad919e38d29acaf4d) (may not fit xi) $2,650
   * [Koni shocks + Eibach springs](http://www.ground-control-store.com/products/category.php/CA=268) (may not fit xi)
   * [JRZ RS1 shocks](https://store.vacmotorsports.com/jrz-rs-sport-bmw-3-series-e90e91e92e93-p3149.aspx) (may not fit xi)
   * [Moton shocks](http://motonsuspensiononline.com/index.php?main_page=product_info&cPath=15_2&products_id=7) (very expensive + may not fit xi)
+  * [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (don't fit xi :cry:)
   * [ ] Try removing sway bars
 * Drivetrain <sup>[bolt-on comparison](http://blog.modbargains.com/5-ways-to-full-bolt-ons-for-bmw-n54/)</sup>
   * [x] [Software](bins/Agatha.bin) (`E89x-15-11-500`, original version: `E89X-07-06-520` or `E89X-10-12-503`)
