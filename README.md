@@ -44,6 +44,8 @@ My 2007 BMW 335xi
   * [ ] Limited-slip differential
   * [ ] Bigger turbo
     * Kit comparisons: [1](http://i.imgur.com/FekoyGw.png) [2](http://i.imgur.com/g5hF6Ok.png)
+    * [HYBRID 2 RR550](http://www.hexonautowerks.com/products_detail_31.htm)
+    * [Horrible VTT customer service](http://www.n54tech.com/forums/showthread.php?t=31229&page=2)
     * [Size chart](http://i.imgur.com/q20vMGg.png)
   * [ ] Oil cooler
 * [ ] Weight reduction <sup>[1](http://www.m3post.com/forums/showthread.php?t=135122)</sup>
