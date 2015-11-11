@@ -26,7 +26,7 @@ My 2007 BMW 335xi
   * [AST shocks](http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail) $1,795
   * KW [V1](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)/[V3](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems) kit $1,584/$2,400
   * [Bilstein shocks + H&R springs](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx) $991
-  * (Fortune Auto 500 shocks + Fortune Auto or Swift springs)[https://www.vividracing.com/catalog/fortune-auto-series-coilovers-335xi-0708-p-150942707.html] $1,349
+  * [Fortune Auto 500 shocks + Fortune Auto or Swift springs](https://www.vividracing.com/catalog/fortune-auto-series-coilovers-335xi-0708-p-150942707.html) $1,349
   * [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (don't fit xi :cry:)
   * [MCS TT1 shocks + Swift+Hyperco springs](http://www.vorshlag.com/product_info.php?cPath=0_332&products_id=707&osCsid=ad2b3910563b892ad919e38d29acaf4d) (may not fit xi) $2,650
   * [Koni shocks + Eibach springs](http://www.ground-control-store.com/products/category.php/CA=268) (may not fit xi)
