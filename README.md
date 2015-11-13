@@ -23,7 +23,7 @@ My 2007 BMW 335xi
 * Suspension <sup>[crappy compatibility list](http://www.e90post.com/forums/showthread.php?t=251639)</sup>
   * [AST kit](http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail) $1,795
   * [TC Kline + Koni kit](http://www.tcklineracing.com/webdocs/Items/Details690.cfm) $2,594
-  * [JRZ RS1 kit](https://store.vacmotorsports.com/jrz-rs-sport-bmw-3-series-e90e91e92e93-p3149.aspx) $3,800
+  * [JRZ RS1 kit](https://store.vacmotorsports.com/jrz-rs-sport-bmw-3-series-e90e91e92e93-p3149.aspx) ([review](http://www.e90post.com/forums/showthread.php?t=1012799)) $3,800
   * [Intrax 1K2 kit](http://en.intraxracing.nl/merken/bmw/e90,-e92,-e93-other-than-m3/bmw5675-1k2/) $2,795
   * KW [V1](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems)/[V3](http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems) kit $1,584/$2,400
   * [Bilstein shocks + H&R springs](http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx) $991
