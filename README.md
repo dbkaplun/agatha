@@ -49,7 +49,7 @@ My 2007 BMW 335xi
     * [Horrible VTT customer service](http://www.n54tech.com/forums/showthread.php?t=31229&page=2)
     * [Size chart](http://i.imgur.com/q20vMGg.png)
   * [ ] Oil cooler
-* [ ] Weight reduction <sup>[1](http://www.m3post.com/forums/showthread.php?t=135122)</sup>
+* [ ] Weight reduction <sup>[1](http://www.m3post.com/forums/showthread.php?t=135122)</sup> <sup>[2](http://www.e90post.com/forums/showthread.php?t=627141)</sup>
 * [ ] [Aerodynamics](http://www.shopbmwusa.com/PERFORMANCE/BMW-M-PERFORMANCE/AERODYNAMIC-COMPONENTS/?Year=2007&Series=3%20Series)
 
 ## Inspiration
