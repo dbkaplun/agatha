@@ -11,10 +11,11 @@ My 2007 BMW 335xi
 
 ## Current mods
 * Tires
-  * [ ] Replace front [Continental ContiProContact SSR Run-Flat All-Season Tire - 225/45R17 91H](http://www.amazon.com/Continental-ContiProContact-Run-Flat-All-Season-Tire/dp/B004QGZN6U)
-  * [x] Rear: [Pirelli Cinturato P7 All Season Performance Radial Tire - 225/45R17 94H](http://www.amazon.com/Pirelli-Cinturato-Season-Performance-Radial/dp/B00CJSQU5K)
-* Wheels
-  * [ ] Replace [BMW 159](http://www.bmwstylewheels.com/bmw/159)s: [Wheels on TireRack](http://www.tirerack.com/wheels/results.jsp?sort=Weight&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems), [O.Z.](http://configurator.ozracing.com/GB/configurator/BMW/3/335xi%20xDrive/390X/-/-/81321196/) ([weights](http://measurespeed.com/oz-rims-wheel-weight.php)), [BBS](http://konfigurator.bbs.com/article/rims/car_selection/rim_selection/resetFilter/true/PKWIDCode/P00001530001476), TSW ([1](http://www.tsw.com/alloy-wheels-configurator/#!year=2007&make=BMW&model=328%20E90&size=17%20Inch%20Wheels&go=1&body=1&tab=wheels&page=1&color=19479&showallwheels=1&wheel=229&wheelimage=519), [2](http://fitment.tsw.com/alloy-wheels-fitment-guide-results.php?year=2007&make=BMW&model=328+E90)), APEX ([1](http://www.apexraceparts.com/apex-products/e90-e92/#.VjyzZK6rTmE), [2](http://www.apexraceparts.com/apex-products/ARC-8-Wheels/)), [D-Force](http://www.bavauto.com/se1.asp?dept_id=413) ([PDF](https://philstireservice.com/wp-content/uploads/2012/01/D-Force-Wheels.pdf)), [wheel weights](http://www.andysautosport.com/learning_center/buyers_guides/wheel_weights/)
+  * [x] Front: [Pirelli Cinturato P7 All Season Performance Radial Tire - 225/45R17 94H](http://www.amazon.com/Pirelli-Cinturato-Season-Performance-Radial/dp/B00CJSQU5K)
+  * [ ] Replace rear [Continental ContiProContact SSR Run-Flat All-Season Tire - 225/45R17 91H](http://www.amazon.com/Continental-ContiProContact-Run-Flat-All-Season-Tire/dp/B004QGZN6U)
+* Wheels <sup>[weights](https://dbkaplun.github.io/wheel-database/) &bull; [TireRack](http://www.tirerack.com/wheels/results.jsp?sort=Weight&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems) &bull; [O.Z.](http://configurator.ozracing.com/GB/configurator/BMW/3/335xi%20xDrive/390X/-/-/81321196/) ([weights](http://measurespeed.com/oz-rims-wheel-weight.php)) &bull; [BBS](http://konfigurator.bbs.com/article/rims/car_selection/rim_selection/resetFilter/true/PKWIDCode/P00001530001476) &bull; TSW ([1](http://www.tsw.com/alloy-wheels-configurator/#!year=2007&make=BMW&model=328%20E90&size=17%20Inch%20Wheels&go=1&body=1&tab=wheels&page=1&color=19479&showallwheels=1&wheel=229&wheelimage=519), [2](http://fitment.tsw.com/alloy-wheels-fitment-guide-results.php?year=2007&make=BMW&model=328+E90)) &bull; APEX ([1](http://www.apexraceparts.com/apex-products/e90-e92/#.VjyzZK6rTmE), [2](http://www.apexraceparts.com/apex-products/ARC-8-Wheels/)) &bull; [D-Force](http://www.bavauto.com/se1.asp?dept_id=413) ([PDF](https://philstireservice.com/wp-content/uploads/2012/01/D-Force-Wheels.pdf))</sup>
+  * [x] [17x9" ET30 APEX ARC-8 (Anthracite)](http://www.apexraceparts.com/apex-products/e90-e92/17x9-ET30-APEX-ARC-8-Wheel.html)
+  * [ ] Original wheels: [BMW 159](http://www.bmwstylewheels.com/bmw/159)
 * Brakes
   * [x] Front
     * [Brembo 33S60204 Sport Slotted Front Rotors](http://www.amazon.com/Brembo-33S60204-Slotted-3-Series-2007-2008/dp/B00BZ0T3RU)
@@ -35,22 +36,26 @@ My 2007 BMW 335xi
   * [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (don't fit xi :cry:)
   * [ ] Try removing sway bars
 * Drivetrain <sup>[bolt-on comparison](http://blog.modbargains.com/5-ways-to-full-bolt-ons-for-bmw-n54/)</sup>
-  * [x] [Software](bins/Agatha.bin) (`E89x-15-11-500`, original version: `E89X-07-06-520` or `E89X-10-12-503`)
+  * [x] [Software](bins/Agatha.bin) (current version `E89x-15-11-500`, original version: `E89X-07-06-520` or `E89X-10-12-503`)
     * [ ] Possibly get a pro tune: [WedgePerformance](http://www.wedgeperformance.com/) [SPX](http://www.e90post.com/forums/member.php?u=231532) [Twisted Tuning](https://www.facebook.com/twistedtuned)
     * [ ] Consider getting a [JB4](http://www.burgertuning.com/jb4_pnp_BMW_performance_tuner.html) [G5](http://www.burgertuning.com/N54_JB4_upgrades.html) piggyback
     * [Test out RWD-only](http://www.e90post.com/forums/showthread.php?t=444973)
-  * [ ] FMIC <sup>[1](http://mosselmanturbo.com/uploads/media/intercooler_test_Mosselman.pdf) [2](http://www.bimmerboost.com/showthread.php?19518-FMIC-Comparison-Thread)</sup>
+  * [ ] FMIC <sup>[1](http://mosselmanturbo.com/uploads/media/intercooler_test_Mosselman.pdf), [2](http://www.bimmerboost.com/showthread.php?19518-FMIC-Comparison-Thread)</sup>
   * [ ] [Exhaust](https://www.youtube.com/watch?v=bjN-akYIGg0)
   * [ ] Catted downpipes
   * [ ] Limited-slip differential
   * [ ] Bigger turbo
-    * Kit comparisons: [1](http://i.imgur.com/FekoyGw.png) [2](http://i.imgur.com/g5hF6Ok.png)
+    * Kit comparisons <sup>[1](http://i.imgur.com/FekoyGw.png), [2](http://i.imgur.com/g5hF6Ok.png)</sup>
     * [HYBRID 2 RR550](http://www.hexonautowerks.com/products_detail_31.htm)
     * [Horrible VTT customer service](http://www.n54tech.com/forums/showthread.php?t=31229&page=2)
     * [Size chart](http://i.imgur.com/q20vMGg.png)
   * [ ] Oil cooler
-* [ ] Weight reduction <sup>[1](http://www.m3post.com/forums/showthread.php?t=135122)</sup> <sup>[2](http://www.e90post.com/forums/showthread.php?t=627141)</sup>
-* [ ] [Aerodynamics](http://www.shopbmwusa.com/PERFORMANCE/BMW-M-PERFORMANCE/AERODYNAMIC-COMPONENTS/?Year=2007&Series=3%20Series)
+* [ ] Weight reduction <sup>[1](http://www.m3post.com/forums/showthread.php?t=135122), [2](http://www.e90post.com/forums/showthread.php?t=627141)</sup>
+  * [ ] Sunroof delete
+* Exterior
+  * [x] [BMW Performance Black Kidney Grille for 3 Series](http://www.shopbmwusa.com/PRODUCT/2560/BMW-PERFORMANCE-BLACK-KIDNEY-GRILLE-FOR-3-SERIES)
+  * [ ] [BMW Black Line Tail Lights for 3 Series](http://www.shopbmwusa.com/PRODUCT/76/BMW-BLACK-LINE-TAIL-LIGHTS-FOR-3-SERIES)
+  * [ ] [Aerodynamics](http://www.shopbmwusa.com/PERFORMANCE/BMW-M-PERFORMANCE/AERODYNAMIC-COMPONENTS/?Year=2007&Series=3%20Series)
 
 ## Inspiration
 * ["Blue"](http://volvospeed.com/vs_forum/topic/148756-e90-update-roll-bar-content/)
