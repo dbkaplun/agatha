@@ -75,7 +75,7 @@ My 2007 BMW 335xi base trim
     * [Horrible VTT customer service](http://www.n54tech.com/forums/showthread.php?t=31229&page=2)
     * [Size chart](http://i.imgur.com/q20vMGg.png)
   * Oil cooler
-* Weight reduction (threads: [1](http://www.m3post.com/forums/showthread.php?t=135122), [2](http://www.e90post.com/forums/showthread.php?t=627141))
+* Weight reduction (threads: [1](http://www.m3post.com/forums/showthread.php?t=135122), [2](http://www.e90post.com/forums/showthread.php?t=627141), [3](http://www.e90post.com/forums/showthread.php?t=97922))
   * Sunroof delete
   * Impact bar removal
     * [Rear bumper](https://www.getbmwparts.com/parts/2007/BMW/335xi/Base?siteid=214672&vehicleid=203156&section=BODY%20HARDWARE&group=REAR%20BUMPER&subgroup=BUMPER%20%26%20COMPONENTS&component=Impact%20bar)
