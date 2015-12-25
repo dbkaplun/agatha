@@ -66,6 +66,7 @@ My 2007 BMW 335xi base trim
     * Comparisons: [1](http://mosselmanturbo.com/uploads/media/intercooler_test_Mosselman.pdf), [2](http://www.bimmerboost.com/showthread.php?19518-FMIC-Comparison-Thread)
   * Exhaust
     * (Now private) [comparison video](https://www.youtube.com/watch?v=bjN-akYIGg0)
+  * [Clutch delay valve](https://www.ecstuning.com/BMW-E90-335xi-N54_3.0L/ES41456/)
   * Catted downpipes
   * Limited-slip differential
   * Bigger turbo
