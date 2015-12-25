@@ -78,8 +78,8 @@ My 2007 BMW 335xi base trim
   * Sunroof delete
 * Exterior
   * [Genuine BMW Black Line Tail Lights for 3 Series](http://www.shopbmwusa.com/PRODUCT/76/BMW-BLACK-LINE-TAIL-LIGHTS-FOR-3-SERIES)
-  * Black window trim: [
-Genuine BMW E90/91/92 Matte Black Exterior Trim Kit](https://www.getbmwparts.com/partlocator/index.cfm?action=viewPrintablePage&partid=754177&siteid=214672&catalogid=4462) (stock: chrome)
+  * [
+Genuine BMW Matte Black Window Trim Kit](https://www.getbmwparts.com/partlocator/index.cfm?action=viewPrintablePage&partid=754177&siteid=214672&catalogid=4462) (stock: chrome)
   * [Aerodynamics](http://www.shopbmwusa.com/PERFORMANCE/BMW-M-PERFORMANCE/AERODYNAMIC-COMPONENTS/?Year=2007&Series=3%20Series)
 
 ## Inspiration
