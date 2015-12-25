@@ -23,9 +23,10 @@ My 2007 BMW 335xi base trim
     * Current flash: [bins/Agatha.bin](bins/Agatha.bin)
     * [ISTA/P](PDFs/P3.57.0_ISTA-P%2BVERSION%2BAND%2BI-LEVEL%2BOVERVIEW.pdf): version `E89x-15-11-500` (stock: `E89X-07-06-520` or `E89X-10-12-503`)
 * Exterior
-  * [BMW Performance Black Kidney Grille for 3 Series](http://www.shopbmwusa.com/PRODUCT/2560/BMW-PERFORMANCE-BLACK-KIDNEY-GRILLE-FOR-3-SERIES)
+  * [Genuine BMW Performance Black Kidney Grille for 3 Series](http://www.shopbmwusa.com/PRODUCT/2560/BMW-PERFORMANCE-BLACK-KIDNEY-GRILLE-FOR-3-SERIES)
 
 ## Planned mods/useful links
+* [Genuine BMW parts](http://www.getbmwparts.com/parts/index.cfm?siteid=214672)
 * Tires
   * [Size calculator](http://www.wheel-size.com/calc/?wheel1=225-45-17X8ET34&wheel2=225-45-17X9ET30&fcl=50mm&wcl=30mm&scl=50mm)
 * Wheels
@@ -76,7 +77,9 @@ My 2007 BMW 335xi base trim
 * Weight reduction (threads: [1](http://www.m3post.com/forums/showthread.php?t=135122), [2](http://www.e90post.com/forums/showthread.php?t=627141))
   * Sunroof delete
 * Exterior
-  * [BMW Black Line Tail Lights for 3 Series](http://www.shopbmwusa.com/PRODUCT/76/BMW-BLACK-LINE-TAIL-LIGHTS-FOR-3-SERIES)
+  * [Genuine BMW Black Line Tail Lights for 3 Series](http://www.shopbmwusa.com/PRODUCT/76/BMW-BLACK-LINE-TAIL-LIGHTS-FOR-3-SERIES)
+  * Black window trim: [
+Genuine BMW E90/91/92 Matte Black Exterior Trim Kit](https://www.getbmwparts.com/partlocator/index.cfm?action=viewPrintablePage&partid=754177&siteid=214672&catalogid=4462) (stock: chrome)
   * [Aerodynamics](http://www.shopbmwusa.com/PERFORMANCE/BMW-M-PERFORMANCE/AERODYNAMIC-COMPONENTS/?Year=2007&Series=3%20Series)
 
 ## Inspiration
