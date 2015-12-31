@@ -52,6 +52,7 @@ My 2007 BMW 335xi base trim
     * [Koni shocks + Eibach springs](http://www.ground-control-store.com/products/category.php/CA=268) (may not fit xi)
     * [Moton shocks](http://motonsuspensiononline.com/index.php?main_page=product_info&cPath=15_2&products_id=7) (very expensive + may not fit xi)
     * [Ohlins BMS MI00 Road and Track Coilovers](http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI) (don't fit xi :cry:)
+  * Bushings
   * Consider sway bar removal
 * Drivetrain
   * ECU
