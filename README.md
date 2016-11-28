@@ -165,6 +165,7 @@ My 2007 BMW 335xi base trim
           <ul>
             <li>Threads: <a href="http://www.m3post.com/forums/showthread.php?t=135122">1</a>, <a href="http://www.e90post.com/forums/showthread.php?t=627141">2</a>, <a href="http://www.e90post.com/forums/showthread.php?t=97922">3</a></li>
             <li>Sunroof delete</li>
+            <li><a href="http://www.m3forum.net/m3forum/showpost.php?p=1065592242&postcount=7">Sound dampening removal</a></li>
             <li>
               Impact bar removal
               <ul>
