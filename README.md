@@ -153,7 +153,7 @@ My 2007 BMW 335xi base trim
     </td>
   </tr>
   <tr>
-    <td>Exterior</td>
+    <td>Exterior/interior</td>
     <td>
       <ul>
         <li><a href="http://www.shopbmwusa.com/PRODUCT/2560/BMW-PERFORMANCE-BLACK-KIDNEY-GRILLE-FOR-3-SERIES">Genuine BMW Performance Black Kidney Grille for 3 Series</a></li>
@@ -162,7 +162,9 @@ My 2007 BMW 335xi base trim
     <td></td>
     <td>
       <ul>
-        <li><a href="http://www.shopbmwusa.com/PRODUCT/76/BMW-BLACK-LINE-TAIL-LIGHTS-FOR-3-SERIES">Genuine BMW Black Line Tail Lights for 3 Series</a></li>
+        <li><a href="http://www.shopbmwusa.com/PRODUCT/48/BMW-ALUMINUM-PEDALS">Genuine BMW aluminum pedals</a></li>
+        <li><a href="http://www.shopbmwusa.com/PRODUCT/3600/BMW-M-PERFORMANCE-ELECTRONIC-STEERING-WHEEL-FOR-SPORT-LINE-EQUIPPED-VEHICLES">Genuine BMW M Performance electronic steering wheel</a> (non-sport compatibility?)</li>
+        <li><a href="http://www.shopbmwusa.com/PRODUCT/2568/BMW-PERFORMANCE-BRAKE-HANDLE">Genuine BMW Performance brake handle</a></li>
         <li><a href="https://www.getbmwparts.com/partlocator/index.cfm?action=viewPrintablePage&partid=754177&siteid=214672&catalogid=4462">Genuine BMW Matte Black Window Trim Kit (stock: chrome)</a></li>
         <li><a href="http://www.shopbmwusa.com/PERFORMANCE/BMW-M-PERFORMANCE/AERODYNAMIC-COMPONENTS/?Year=2007&Series=3%20Series">Aerodynamics</a></li>
       </ul>
