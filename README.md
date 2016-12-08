@@ -71,20 +71,34 @@ My 2007 BMW 335xi base trim
     </td>
     <td>
       <ul>
-        <li><a href="http://www.e90post.com/forums/showthread.php?t=1012799">Review of similar setup</a></li>
+        <li>
+          Swaybar links
+          <ul>
+            <li><a href="http://www.hpashop.com/HP-Autosport-E82-E9X-Adjustable-Swaybar-Endlinks-HPA-sway-endlinks-e82-e9x.htm">HP Autosport E82/E9X Adjustable Swaybar Endlinks</a></li>
+            <li><a href="http://www.topgearsolutions.com/uuc-bmw-e90-e92-adjustable-end-links.html">UUC BMW E90 /E92 Adjustable End Links</a></li>
+          </ul>
+        </li>
         <li>Consider sway bar removal</li>
-        <li><a href="http://www.e90post.com/forums/showthread.php?t=251639">Kit compatibility thread</a></li>
-        <li><a href="http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail">AST kit</a></li>
-        <li><a href="http://www.tcklineracing.com/webdocs/Items/Details690.cfm">TC Kline + Koni kit</a></li>
-        <li><a href="http://en.intraxracing.nl/merken/bmw/e90,-e92,-e93-other-than-m3/bmw5675-1k2/">Intrax 1K2 kit</a></li>
-        <li>KW <a href="http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems">V1</a>/<a href="http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems">V3</a></li>
-        <li><a href="http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx">Bilstein shocks + H&amp;R springs</a></li>
-        <li><a href="https://www.vividracing.com/catalog/fortune-auto-series-coilovers-335xi-0708-p-150942707.html">Fortune Auto 500 shocks + Fortune Auto or Swift springs</a></li>
-        <li><a href="https://store.vacmotorsports.com/nitron---ntr-r1-coilover-systems-e9x--e8x-non-m-p2848.aspx">Nitron NTR R1 kit (may not fit xi)</a></li>
-        <li><a href="http://www.vorshlag.com/product_info.php?cPath=0_332&products_id=707&osCsid=ad2b3910563b892ad919e38d29acaf4d">MCS TT1 shocks + Swift+Hyperco springs (may not fit xi)</a></li>
-        <li><a href="http://www.ground-control-store.com/products/category.php/CA=268">Koni shocks + Eibach springs (may not fit xi)</a></li>
-        <li><a href="http://motonsuspensiononline.com/index.php?main_page=product_info&cPath=15_2&products_id=7">Moton shocks (very expensive + may not fit xi)</a>
-        <li><a href="http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI">Ohlins BMS MI00 Road and Track Coilovers (don't fit xi :cry:)</a></li>
+        <li>
+          <details>
+            <summary>Coilover kits</summary>
+            <ul>
+              <li><a href="http://www.e90post.com/forums/showthread.php?t=251639">Kit compatibility thread</a></li>
+              <li><a href="http://www.ast-suspension.com/shop/shockabsorbers/4100/ast-1-way-4100-bmw-3-series-e90-e91-e93-detail">AST kit</a></li>
+              <li><a href="http://www.tcklineracing.com/webdocs/Items/Details690.cfm">TC Kline + Koni kit</a></li>
+              <li><a href="http://en.intraxracing.nl/merken/bmw/e90,-e92,-e93-other-than-m3/bmw5675-1k2/">Intrax 1K2 kit</a></li>
+              <li>KW <a href="http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+1+Coil-Over&group=Variant+1+Coil-Over&partNum=KW10220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems">V1</a>/<a href="http://www.tirerack.com/suspension/suspension.jsp?make=KW&model=Variant+3+Coil-Over&group=Variant+3+Coil-Over&partNum=KW35220048&autoMake=BMW&autoModel=335xi+Sedan+Base+Model&autoYear=2007&autoModClar=With+OE+Metal+Valve+Stems">V3</a></li>
+              <li><a href="http://www.turnermotorsport.com/p-5394-e90-325xi328xi330xi335xi-sedan-hrbilstein-sport-suspension-package.aspx">Bilstein shocks + H&amp;R springs</a></li>
+              <li><a href="https://www.vividracing.com/catalog/fortune-auto-series-coilovers-335xi-0708-p-150942707.html">Fortune Auto 500 shocks + Fortune Auto or Swift springs</a></li>
+              <li><a href="https://store.vacmotorsports.com/nitron---ntr-r1-coilover-systems-e9x--e8x-non-m-p2848.aspx">Nitron NTR R1 kit (may not fit xi)</a></li>
+              <li><a href="http://www.vorshlag.com/product_info.php?cPath=0_332&products_id=707&osCsid=ad2b3910563b892ad919e38d29acaf4d">MCS TT1 shocks + Swift+Hyperco springs (may not fit xi)</a></li>
+              <li><a href="http://www.ground-control-store.com/products/category.php/CA=268">Koni shocks + Eibach springs (may not fit xi)</a></li>
+              <li><a href="http://motonsuspensiononline.com/index.php?main_page=product_info&cPath=15_2&products_id=7">Moton shocks (very expensive + may not fit xi)</a>
+              <li><a href="http://www.amazon.com/Ohlins-MI00-Road-Track-Coilovers/dp/B004AC55VI">Ohlins BMS MI00 Road and Track Coilovers (don't fit xi :cry:)</a></li>
+            </ul>
+          </details>
+        </li>
+        <li><a href="http://www.e90post.com/forums/showthread.php?t=1012799">Review of similar setup</a></li>
       </ul>
     </td>
   </tr>
