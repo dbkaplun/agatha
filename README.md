@@ -107,6 +107,7 @@ My 2007 BMW 335xi base trim
     <td>
       <ul>
         <li><a href="https://www.ecstuning.com/BMW-E90-335xi-N54_3.0L/ES41456/">Clutch delay valve</a></li>
+        <li><a href="http://www.e90post.com/forums/showthread.php?t=80661">Exhaust valve mod (alternative to Golf Tee mod)</a></li>
       </ul>
     </td>
     <td>
