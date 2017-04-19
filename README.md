@@ -177,7 +177,7 @@ My 2007 BMW 335xi base trim
     <td>
       <ul>
         <li><a href="http://www.getbmwparts.com/parts/index.cfm?siteid=214672">Genuine BMW parts</a></li>
-        <li>Hitch installation</li>
+        <li><a href="http://www.bimmerfest.com/forums/showpost.php?p=6505209&postcount=1">Westfalia (OEM) tow bar</a></li>
         <li>
           Weight reduction
           <ul>
